@@ -1,0 +1,23 @@
+#Internal package file, do not edit.
+#Fri Jan 26 17:55:44 KST 2018
+2.base=C\:\\a\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\release\\0
+0.path=lib/x86/libnative-activity.so
+2.baseType=DIRECTORY
+3.base=C\:\\a\\app\\build\\intermediates\\transforms\\dex\\release\\0
+2.set=NATIVE_RESOURCE
+1.path=lib/armeabi-v7a/libnative-activity.so
+4.base=C\:\\a\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\release\\0
+count=5
+2.path=lib/x86_64/libnative-activity.so
+4.set=NATIVE_RESOURCE
+3.path=classes.dex
+3.baseType=DIRECTORY
+1.set=NATIVE_RESOURCE
+4.path=lib/arm64-v8a/libnative-activity.so
+1.baseType=DIRECTORY
+0.base=C\:\\a\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\release\\0
+0.baseType=DIRECTORY
+3.set=DEX
+1.base=C\:\\a\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\release\\0
+4.baseType=DIRECTORY
+0.set=NATIVE_RESOURCE

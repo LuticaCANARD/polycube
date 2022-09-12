@@ -1,0 +1,27 @@
+# ninja log v5
+1	154	0	CMakeFiles/native_app_glue.dir/C_/Users/Administrator/AppData/Local/Android/sdk/ndk-bundle/sources/android/native_app_glue/android_native_app_glue.c.o	bf650961ccc57755
+155	216	0	libnative_app_glue.a	f91b6f0201398ae
+216	12198	0	CMakeFiles/native-activity.dir/main.cpp.o	1ee84973a97f5980
+12200	12742	0	C:/a/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-activity.so	9712057fd9f66306
+4	11536	0	CMakeFiles/native-activity.dir/main.cpp.o	1ee84973a97f5980
+11536	12753	0	C:/a/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-activity.so	9712057fd9f66306
+4	161	0	CMakeFiles/native_app_glue.dir/C_/Users/Administrator/AppData/Local/Android/sdk/ndk-bundle/sources/android/native_app_glue/android_native_app_glue.c.o	bf650961ccc57755
+162	221	0	libnative_app_glue.a	f91b6f0201398ae
+221	12890	0	CMakeFiles/native-activity.dir/main.cpp.o	1ee84973a97f5980
+12890	13520	0	C:/a/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-activity.so	9712057fd9f66306
+5	10421	0	CMakeFiles/native-activity.dir/main.cpp.o	1ee84973a97f5980
+10422	11577	0	C:/a/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-activity.so	9712057fd9f66306
+7	14044	0	CMakeFiles/native-activity.dir/main.cpp.o	1ee84973a97f5980
+14045	15249	0	C:/a/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-activity.so	9712057fd9f66306
+3	11108	0	CMakeFiles/native-activity.dir/main.cpp.o	1ee84973a97f5980
+11108	12326	0	C:/a/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-activity.so	9712057fd9f66306
+6	13802	0	CMakeFiles/native-activity.dir/main.cpp.o	1ee84973a97f5980
+13803	14347	0	C:/a/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-activity.so	9712057fd9f66306
+5	16468	0	CMakeFiles/native-activity.dir/main.cpp.o	1ee84973a97f5980
+16469	17748	0	C:/a/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-activity.so	9712057fd9f66306
+5	20398	0	CMakeFiles/native-activity.dir/main.cpp.o	1ee84973a97f5980
+20398	20905	0	C:/a/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-activity.so	9712057fd9f66306
+5	19542	0	CMakeFiles/native-activity.dir/main.cpp.o	1ee84973a97f5980
+19543	20193	0	C:/a/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-activity.so	9712057fd9f66306
+5	13852	0	CMakeFiles/native-activity.dir/main.cpp.o	1ee84973a97f5980
+13852	14375	0	C:/a/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-activity.so	9712057fd9f66306
