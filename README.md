@@ -5,3 +5,7 @@
 - abc351
 # Repo administer
 - Lutica_canard (presan100@gmail.com)
+## Plans from Lutica
+- Android app (this repo)
+- Unity project
+- ploycube with webASM
